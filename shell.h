@@ -1,7 +1,7 @@
 #ifndef SHELL_HEADER_FILE
 #define SHELL_HEADER_FILE
 
-#include <stdio.>
+#include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
