@@ -1,1 +1,1 @@
-ALX-SE: Second team project done by Jaycee F. Konah and Mamah Marcus
+ALX-SE: Second team project done by Omar and Mamah Marcus
